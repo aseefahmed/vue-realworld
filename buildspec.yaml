@@ -12,7 +12,7 @@ phases:
     commands:
       - echo Build Phase
       - npm run build
-artifcats:
+artifacts:
   files:
     - "**/*"
   base-directory: dist
